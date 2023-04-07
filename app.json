@@ -31,11 +31,4 @@
         {"url": "https://github.com/subinps/heroku-buildpack-nodejs"},
         {"url": "heroku/python"}
     ]
-},
-{
-  "formation": {
-    "web": {
-      "quantity": 1,
-      "size": "eco"
-    }
-  }
+}
