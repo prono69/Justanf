@@ -32,9 +32,11 @@
         {"url": "heroku/python"}
     ]
 },
-"formation": {
-        "usee": {
-            "quantity": 1,
-            "size": "eco"
-        }
+{
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "eco"
+    }
+  }
 }
